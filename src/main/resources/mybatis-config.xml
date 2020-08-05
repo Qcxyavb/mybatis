@@ -18,6 +18,6 @@
 
     <!-- 映射配置文件 -->
     <mappers>
-        <mapper url="file:///C:\Users\17610\Desktop\Idea Workspace\mybatis\src\main\resources\Emp.xml" />
+        <mapper resource="com/qf/emp/EmpMapper.xml" />
     </mappers>
 </configuration>
