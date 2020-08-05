@@ -6,6 +6,7 @@ import com.qf.mybatis.pojo.Emp;
 
 import java.util.List;
 
+
 public interface EmpMapper {
     public List<Emp> findEmpList();
     public Emp get(Integer id);
